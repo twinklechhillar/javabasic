@@ -1,0 +1,9 @@
+class Main {
+    static int subtract(int a , int b){
+        return a-b;
+    }
+    public static void main(String[] args) {
+        int ans = subtract(20,8);
+        System.out.println(ans);
+    }
+}
