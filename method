@@ -1,0 +1,12 @@
+class Main {
+    static void printMessage() {
+         System.out.println("welcome to java");
+    }
+    public static void main(String[] args) {
+   
+   
+    printMessage();
+    printMessage();
+    printMessage();
+    }
+}
