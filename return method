@@ -1,0 +1,15 @@
+class main {
+    static int square( int n) {
+        return n * n;
+    }
+    public static void main(String[] args) {
+        
+        int ans = square(8);
+        
+         System.out.println(ans);
+    
+   
+    
+    
+    }
+}
