@@ -1,0 +1,9 @@
+class Main { 
+    static int doubleNumber(int n){
+        return n*2;
+    }
+    public static void main(String[] args) {
+        int ans= doubleNumber(9);
+        System.out.println(ans);
+    }
+}
